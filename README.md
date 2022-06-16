@@ -1,3 +1,2 @@
-# Completed Project: Handling User Input
-
-Explore the completed project for the [Handling User Input](https://developer.apple.com/tutorials/swiftui/handling-user-input) tutorial.
+Apple Landmarks Tutorial starting at: https://developer.apple.com/tutorials/swiftui/creating-and-combining-views
+And stopping at: https://developer.apple.com/tutorials/swiftui/handling-user-input
